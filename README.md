@@ -23,13 +23,12 @@ The structural components were designed in SolidWorks to ensure structural integ
 The core of the control system is based on an PIC16F887 microcontroller. The electronic architecture includes motor drivers, a dedicated power supply unit, and appropriate wiring to handle the current drawn by the actuators during dynamic movements.
 
 <img width="1052" height="551" alt="image" src="https://github.com/user-attachments/assets/aa8f64ba-05ba-4411-b021-5d67692a08d2" />
-
-## 🖨️ Manufacturing & Assembly
-Custom joints, linkages, and the base structure were 3D printed. Mechanical assembly required precise tolerancing for bearings and motor shafts to eliminate backlash and ensure smooth operation.
-
 <img width="505" height="711" alt="image" src="https://github.com/user-attachments/assets/e2e3cdc3-c67c-4077-b261-4832583f8e28" />
 <img width="489" height="688" alt="image" src="https://github.com/user-attachments/assets/54e06950-e73b-40c2-bbea-ecbcba78d460" />
 
+
+## 🖨️ Manufacturing & Assembly
+Custom joints, linkages, and the base structure were 3D printed. Mechanical assembly required precise tolerancing for bearings and motor shafts to eliminate backlash and ensure smooth operation.
 
 ## 📂 Repository Structure
 * `CAD_Files_Step/` : SolidWorks part and assembly files (.sldprt, .sldasm)
